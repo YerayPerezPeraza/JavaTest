@@ -56,12 +56,12 @@ Method to add a new user to the Json file.
 ~~~~
 organizeUserForDate(java.lang.String file)
 ~~~~
-In this method we organize the users by first creation date ascendingly and secondly descendingly.
+In this method we organize the users by first creation date ascending and secondly descending.
 
 ~~~~
 searchCity(char cityToSearch, java.lang.String file)	
 ~~~~
-This method searches for all cities that start with a certain letter.
+This method searches for all cities that start with a letter that is written.
 
 ~~~~
 SearchActivite(java.lang.String file)
